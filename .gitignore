@@ -7,3 +7,4 @@ gradle-app.settings
 
 # Avoid ignoring Gradle wrapper jar file (.jar file are usually ignorred)
 !gradle-wrapper.jar
+.idea/workspace.xml
